@@ -1,6 +1,6 @@
 #ifndef RAYTRACER_H
 #define RAYTRACER_H
-#include "Camera.h"
+#include "camera.h"
 
 using namespace std;
 using namespace glm;

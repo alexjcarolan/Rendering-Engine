@@ -1,6 +1,6 @@
 #ifndef CAMERA_H
 #define CAMERA_H
-#include "FileHandler.h"
+#include "file_handler.h"
 
 using namespace std;
 using namespace glm;

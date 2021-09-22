@@ -1,5 +1,5 @@
-#include "Rasterizer.h"
-#include "Raytracer.h"
+#include "rasterizer.h"
+#include "raytracer.h"
 
 using namespace std;
 using namespace glm;

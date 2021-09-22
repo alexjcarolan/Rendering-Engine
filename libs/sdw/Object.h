@@ -1,7 +1,7 @@
 #ifndef OBJECT_H
 #define OBJECT_H
-#include "ModelTriangle.h"
-#include "Material.h"
+#include "model_triangle.h"
+#include "material.h"
 #include <unordered_map>
 #include <glm/glm.hpp>
 #include <iostream>

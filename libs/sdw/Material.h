@@ -1,8 +1,8 @@
 #ifndef MATERIAL_H
 #define MATERIAL_H
-#include "TextureTriangle.h"
-#include "Texture.h"
-#include "Colour.h"
+#include "texture_triangle.h"
+#include "texture.h"
+#include "colour.h"
 #include <glm/glm.hpp>
 #include <iostream>
 

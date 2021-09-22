@@ -4,8 +4,8 @@ PROJECT_NAME = Controller
 SOURCE_FILE = $(PROJECT_NAME).cpp
 OBJECT_FILE = $(PROJECT_NAME).o
 EXECUTABLE = $(PROJECT_NAME)
-WINDOW_SOURCE = libs/sdw/DrawingWindow.cpp
-WINDOW_OBJECT = libs/sdw/DrawingWindow.o
+WINDOW_SOURCE = libs/sdw/drawing_window.cpp
+WINDOW_OBJECT = libs/sdw/drawing_window.o
 
 # Build settings
 COMPILER = g++
